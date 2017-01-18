@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generic", "Generic\Generic.csproj", "{A9EF0D4F-BB06-4414-B7C3-2C85265B55D6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concurrent", "Concurrent\Concurrent.csproj", "{8D1FF6B6-6367-4F2F-B218-261D919AFDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjectForGenericInfiniteQueue", "UnitTestProjectForGenericInfiniteQueue\UnitTestProjectForGenericInfiniteQueue.csproj", "{2ACC4CAE-4092-4CE3-9202-04CF77DF5F89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8D1FF6B6-6367-4F2F-B218-261D919AFDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D1FF6B6-6367-4F2F-B218-261D919AFDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D1FF6B6-6367-4F2F-B218-261D919AFDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2ACC4CAE-4092-4CE3-9202-04CF77DF5F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2ACC4CAE-4092-4CE3-9202-04CF77DF5F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2ACC4CAE-4092-4CE3-9202-04CF77DF5F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2ACC4CAE-4092-4CE3-9202-04CF77DF5F89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

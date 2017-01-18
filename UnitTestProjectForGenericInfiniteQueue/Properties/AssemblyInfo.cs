@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("HalloJoe Collections")]
+[assembly: AssemblyTitle("UnitTestProjectForGenericInfiniteQueue")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HalloJoe.Collections")]
+[assembly: AssemblyProduct("UnitTestProjectForGenericInfiniteQueue")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a9ef0d4f-bb06-4414-b7c3-2c85265b55d6")]
+[assembly: Guid("2acc4cae-4092-4ce3-9202-04cf77df5f89")]
 
 // Version information for an assembly consists of the following four values:
 //
