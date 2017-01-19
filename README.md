@@ -1,2 +1,2 @@
 # HalloJoe.Collections
-Generic infinite queues for starters
+Generic and concurrent infinite queues for starters. 
